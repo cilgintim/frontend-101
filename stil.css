@@ -15,6 +15,7 @@ dortluk {
 }
 
 sair {
+    font-weight: bold;
     display: block;
     font-style: italic;
 }
